@@ -1,3 +1,4 @@
+## We can take any variable that we want. In this I took k.
 makeCacheMatrix <- function(x = matrix()) {
   k <- NULL
   set <- function(y){
